@@ -15,7 +15,7 @@
 
 📊 Results Obtained & Analysis:
 
-    Monthly Sales Trends (Line Chart - conceptually): Analyzed overall monthly revenue and order     volume trends, showing how sales and orders fluctuated throughout 2019. The full dataset         returned 12 months of data (plus a NULL entry, likely an artifact of some initial date           parsing or empty rows, which can be excluded).
+    Monthly Sales Trends (Line Chart - conceptually): Analyzed overall monthly revenue and order volume trends, showing how sales and orders fluctuated throughout 2019. The full dataset returned 12 months of data (plus a NULL entry, likely an artifact of some initial date parsing or empty rows, which can be excluded).
 
     sales_month	total_revenue	order_volume
     2019-01	$403,624.58	2,102
@@ -35,12 +35,12 @@
 
 ✅ Utilized a WHERE clause to filter the analysis for specific time periods.
 
-    Year/Month Filter: Demonstrated filtering for a specific month (e.g., December 2019) to get      focused insights.
+    Year/Month Filter: Demonstrated filtering for a specific month (e.g., December 2019) to get focused insights.
 
 🎯 Key Analysis Insights:
 
-    Year-End Peak: Both total revenue and order volume show a significant increase towards the       end of the year, peaking in November and December 2019.
+    Year-End Peak: Both total revenue and order volume show a significant increase towards the end of the year, peaking in November and December 2019.
 
-    Consistency in Trends: The trends for revenue and order volume largely align, suggesting         that higher sales are driven by a greater number of unique transactions.
+    Consistency in Trends: The trends for revenue and order volume largely align, suggesting that higher sales are driven by a greater number of unique transactions.
 
-    Monthly Fluctuations: While there's an overall upward trend, there are visible monthly           fluctuations, with some dips (e.g., February and May) followed by recovery.
+    Monthly Fluctuations: While there's an overall upward trend, there are visible monthly fluctuations, with some dips (e.g., February and May) followed by recovery.
